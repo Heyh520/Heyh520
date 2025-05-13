@@ -1,0 +1,23 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>My GitHub Profile</title>
+  <script>
+    // 检测浏览器的语言环境并加载相应的语言
+    window.onload = function() {
+      var userLang = navigator.language || navigator.userLanguage; // 获取浏览器的语言设置
+      if (userLang.includes("zh")) {
+        window.location.href = "index_zh.md"; // 中文版本
+      } else {
+        window.location.href = "index_en.md"; // 英文版本
+      }
+    }
+  </script>
+</head>
+<body>
+  <h1>Welcome to My GitHub Profile</h1>
+  <p>Loading...</p>
+</body>
+</html>
