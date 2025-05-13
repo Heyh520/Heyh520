@@ -1,26 +1,51 @@
-# 欢迎来到我的Git主页 👋
+# 欢迎来到我的 GitHub 主页 👋
 
-我是来自中国的一名全栈开发工程师，热爱做一些游戏工具和AI工具。
-目前我有一个再训练的AI叫“小何”，是给女朋友无聊时准备的。
-通过编程，我喜欢探索如何通过技术来改善生活，解决实际问题。
+我是来自中国的一名全栈开发工程师，热衷于开发游戏工具与 AI 工具。  
+目前正在训练一个陪伴型 AI，希望它能在情感陪伴、对话交互等方面更智能。
 
-## 🛠 项目经历
+---
 
-### **My World 服务器看门狗程序**
-这是我为“我的世界”服务器开发的一款看门狗程序，主要功能包括：
-- **定时重启**：确保服务器持续稳定运行，定期进行重启操作。
-- **邮件通知**：当服务器出现问题时，程序会发送邮件通知管理员，便于快速响应。
-- **检测mod变化**：自动检测服务器中的mod变化，确保系统兼容性并及时反馈。
+### 🧰 技术栈
 
-该项目有效提升了服务器的管理效率与稳定性，展示了我在自动化工具开发方面的能力。
+- 编程语言：**Java、.NET (C#)、Go、Python**
+- 应用领域：**后端开发、系统集成、自动化工具、AI 工具、游戏辅助工具**
+- 项目经验：
+  - 我的世界服务器看门狗程序（定时重启、邮件通知、mod变更检测）
+  - 金融系统开发与国际化对接
+  - 自动化部署平台与扩展管理工具
+  - 高并发数据同步系统
+  - 内部 IT 平台、需求管理、权限控制系统
 
-## 🌱 技能与技术栈
+---
 
-- **编程语言**：Java, .NET, Go, Python
-- **框架与工具**：Spring, ASP.NET Core, Docker, Kubernetes, Node.js
-- **数据库**：SQL Server, MongoDB
-- **其他**：Git, CI/CD, RESTful API, 微服务架构
+### 💻 我的设备
 
-## 📫 联系我
-- QQ: 2665802693
-- 邮箱: hyh2665802693@gamil.com
+- 🖥️ 台式机：**Ryzen 9 9800X3D + RTX 4080 Super**
+- 💼 主力笔记本：**ROG 幻 16 Air**
+- 📡 家用服务器：**i7-10750H + RTX 2060**
+
+---
+
+### 📬 联系方式
+
+<p align="left">
+  <img src="https://img.icons8.com/color/48/discord-logo.png" width="20" style="vertical-align: middle; margin-right: 5px;" />
+  <strong>Discord：</strong> <a href="https://discord.gg/3XpTt9W5">点击加入</a>
+</p>
+
+<p align="left">
+  <img src="https://img.icons8.com/color/48/gmail-new.png" width="20" style="vertical-align: middle; margin-right: 5px;" />
+  <strong>Email：</strong> hyh2665802693@gmail.com
+</p>
+
+---
+
+### 📊 GitHub 活跃统计
+
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Heyh520&show_icons=true&theme=tokyonight&hide_border=false)
+
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Heyh520&layout=compact&theme=tokyonight&hide_border=false)
+
+---
+
+> 如果你觉得有意思，不妨点个 ⭐ 吧~
