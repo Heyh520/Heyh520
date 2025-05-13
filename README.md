@@ -42,9 +42,9 @@
 
 ### 📊 GitHub 活跃统计
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Heyh520&show_icons=true&theme=tokyonight&hide_border=false)
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Heyh520&show_icons=true&theme=tokyonight&hide_border=false) ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Heyh520&layout=compact&theme=tokyonight&hide_border=false)
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Heyh520&layout=compact&theme=tokyonight&hide_border=false)
+
 
 ---
 
