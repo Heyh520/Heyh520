@@ -33,4 +33,12 @@ Currently, I am training a companion AI, aiming to make it smarter in emotional 
 
 ---
 
+
+### 📊 GitHub 活跃统计
+
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Heyh520&show_icons=true&theme=tokyonight&hide_border=false) ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Heyh520&layout=compact&theme=tokyonight&hide_border=false)
+
+
+
+---
 > If you find this interesting, please give it a ⭐~
